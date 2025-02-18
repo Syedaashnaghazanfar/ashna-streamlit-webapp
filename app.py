@@ -5,7 +5,7 @@ import os
 from io import BytesIO
 
 st.set_page_config(page_title="💿Data sweeper", layout="wide")
-st.title("💿Data sweeper")
+st.title("💿DATA SWEEPER")
 st.write("Transform your CSV and Excel File formats")
 
 # Allow multiple file uploads
